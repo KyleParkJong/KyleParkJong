@@ -14,7 +14,7 @@ I am a Senior majoring in Electrical and Electronic Engineering at Konkuk Univer
 
 <div align="center">
 
-Techs I've used at least once.
+Techs I'am currently using.
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Verilog-20C997?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
