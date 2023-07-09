@@ -1,16 +1,22 @@
-### Hi there 👋
+<h3 align="center">🙌 Introduction 🙌</h3>
+<div align="center">
+👋 Hi, my name is Kyle Jonghyuk Park.
 
-<!--
-**KyleParkJong/KyleParkJong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Senior majoring in Electrical and Electronic Engineering at Konkuk University.
 
-Here are some ideas to get you started:
+🌱 I’m currently Interested in SoC and NoC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- 🔭 I’m hoping to learn about Computer Vision and Machine Learning. -->
+
+</div>
+
+<h3 align="center">✨ Skills ✨</h3>
+
+<div align="center">
+
+Techs I've used at least once.
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vivado-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
