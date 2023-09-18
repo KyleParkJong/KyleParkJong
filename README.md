@@ -25,8 +25,5 @@ S/W Techs I'am currently using.
 <img src="https://img.shields.io/badge/Matlab-5A6AB1?style=flat-square&logo=Monster&logoColor=white"/>
 
 
-</div>
-<div align="center">
-
-H/W Techs I'am currently using.
+<div align="center"> H/W Techs I'am currently using.
 - Xilinx FPGA, Arduino, Rasberry Pi, Adalm Pluto  
