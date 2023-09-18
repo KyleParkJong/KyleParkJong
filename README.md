@@ -6,7 +6,7 @@ I am a Senior majoring in Electrical and Electronic Engineering at Konkuk Univer
 
 🌱 I’m currently Interested in Low-power & High-performance Digital VLSI Design
 
-</div>
+<div align="center">
 
 _Maching Learning Accererlator, Network on Chip, Heterogeneous Integration_
 
