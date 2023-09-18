@@ -20,3 +20,4 @@ Techs I'am currently using.
 <img src="https://img.shields.io/badge/Verilog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vivado-F7DF1E?style=for-the-badge&logo=Xilinx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matlab-5A6AB1?style=for-the-badge&logo=Monster&logoColor=white"/>
