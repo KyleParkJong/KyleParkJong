@@ -18,7 +18,7 @@ _Maching Learning Accererlator, Network on Chip, Heterogeneous Integration_
   
 S/W Techs I'am currently using.
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C/C++-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Verilog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 <img src="https://img.shields.io/badge/SystemVerilog-2450B2?style=flat-square&logo=vega&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
