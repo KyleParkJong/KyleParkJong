@@ -21,7 +21,7 @@ S/W Techs I'am currently using.
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Verilog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vivado-F7DF1E?style=flat-square&logo=Xilinx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vivado-E01F27?style=flat-square&logo=Xilinx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matlab-5A6AB1?style=flat-square&logo=Monster&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
@@ -32,7 +32,10 @@ S/W Techs I'am currently using.
 <div align="center"> 
   
 H/W Techs I'am currently using.
-  
-Xilinx FPGA, Arduino, Rasberry Pi, Adalm Pluto  
+
+<img src="https://img.shields.io/badge/Xilinx FPGA-E01F27E?style=flat-square&logo=Xilinx&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=Arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/RaspberryPi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adalm Pluto-FF4F64?style=flat-square&logo=simpleanalytics&logoColor=white"/>
 
 </div>
