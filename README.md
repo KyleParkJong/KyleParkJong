@@ -4,9 +4,8 @@
 
 I am a Senior majoring in Electrical and Electronic Engineering at Konkuk University.
 
-🌱 I’m currently Interested in SoC and NoC.
-
-<!-- 🔭 I’m hoping to learn about Computer Vision and Machine Learning. -->
+🌱 I’m currently Interested in Low-power & High-performance Digital VLSI Design
+_Maching Learning Accererlator, Network on Chip, Heterogeneous Integration_
 
 </div>
 
