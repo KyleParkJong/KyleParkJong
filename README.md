@@ -26,7 +26,8 @@ S/W Techs I'am currently using.
 
 </div>
 
-<div align="center"> </div>
+<div align="center"> 
+</div>
 <div align="center"> H/W Techs I'am currently using.
   
 Xilinx FPGA, Arduino, Rasberry Pi, Adalm Pluto  
