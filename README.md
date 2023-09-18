@@ -28,7 +28,10 @@ S/W Techs I'am currently using.
 
 <h3 align="center">✨ H/W Skills ✨</h3>
 
-<div align="center"> H/W Techs I'am currently using.
+<div align="center"> 
+  
+H/W Techs I'am currently using.
   
 Xilinx FPGA, Arduino, Rasberry Pi, Adalm Pluto  
+
 </div>
