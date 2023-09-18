@@ -23,6 +23,7 @@ S/W Techs I'am currently using.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vivado-F7DF1E?style=flat-square&logo=Xilinx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matlab-5A6AB1?style=flat-square&logo=Monster&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
 
 </div>
 
