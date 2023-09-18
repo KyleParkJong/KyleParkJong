@@ -20,10 +20,12 @@ S/W Techs I'am currently using.
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Verilog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+<img src="https://img.shields.io/badge/SystemVerilog-2450B2?style=flat-square&logo=vega&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vivado-E01F27?style=flat-square&logo=Xilinx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matlab-5A6AB1?style=flat-square&logo=Monster&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
 
 </div>
 
