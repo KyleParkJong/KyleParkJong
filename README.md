@@ -12,7 +12,7 @@ _Maching Learning Accererlator, Network on Chip, Heterogeneous Integration_
 
 </div>
 
-<h3 align="center">✨ Skills ✨</h3>
+<h3 align="center">✨ S/W Skills ✨</h3>
 
 <div align="center">
   
@@ -26,10 +26,7 @@ S/W Techs I'am currently using.
 
 </div>
 
-<div align="center"> 
-
-  
-</div>
+<h3 align="center">✨ H/W Skills ✨</h3>
 
 <div align="center"> H/W Techs I'am currently using.
   
