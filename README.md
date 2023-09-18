@@ -26,4 +26,4 @@ S/W Techs I'am currently using.
 
 
 <div align="center"> H/W Techs I'am currently using.
-- Xilinx FPGA, Arduino, Rasberry Pi, Adalm Pluto  
+<div align="center"> Xilinx FPGA, Arduino, Rasberry Pi, Adalm Pluto  
