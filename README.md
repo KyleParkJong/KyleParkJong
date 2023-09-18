@@ -4,7 +4,7 @@
 
 I am a Senior majoring in Electrical and Electronic Engineering at Konkuk University.
 
-🌱 I’m currently Interested in Low-power & High-performance Digital VLSI Design
+🌱 I’m currently Interested in Low-Power & High-Performance Digital VLSI Design
 
 <div align="center">
 
