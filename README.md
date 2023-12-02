@@ -2,13 +2,15 @@
 <div align="center">
 👋 Hi, my name is Kyle Jonghyuk Park.
 
-I am a Senior majoring in Electrical and Electronic Engineering at Konkuk University.
+I am a Senior student majoring in Electrical and Electronics Engineering at Konkuk University.
 
 🌱 I’m currently Interested in Low-Power & High-Performance Digital VLSI Design
 
 <div align="center">
 
-_Maching Learning Accererlator, Network on Chip, Heterogeneous Integration_
+• Low-power and High-performance VLSI Design
+• Machine Learning Accelerator, Network on Chip (NoC)
+• Heterogeneous Circuit, Compute-in Memory
 
 </div>
 
