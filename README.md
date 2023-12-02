@@ -8,9 +8,9 @@ I am a Senior student majoring in Electrical and Electronics Engineering at Konk
 
 <div align="center">
 
-• Low-power and High-performance VLSI Design  
-• Machine Learning Accelerator, Network on Chip (NoC)  
-• Heterogeneous Circuit, Compute-in Memory  
+• _Low-power and High-performance VLSI Design_  
+• _Machine Learning Accelerator, Network on Chip (NoC)_  
+• _Heterogeneous Circuit, Compute-in Memory_  
 
 </div>
 
